@@ -2,13 +2,13 @@ function toggleText() {
 
     const description = document.getElementById('description');
 
-    if (description.textContent === 'ÕâÊÇÒ»¸ö¼òµ¥µÄÍøÕ¾Ê¾Àı£¬Õ¹Ê¾»ù±¾µÄHTML¡¢CSSºÍJavaScriptÓÃ·¨¡£') {
+    if (description.textContent === 'è¿™æ˜¯ä¸€ä¸ªç®€å•çš„ç½‘ç«™ç¤ºä¾‹ï¼Œå±•ç¤ºåŸºæœ¬çš„HTMLã€CSSå’ŒJavaScriptç”¨æ³•ã€‚') {
 
-        description.textContent = 'ÎÄ±¾ÒÑ±»ÇĞ»»£¡';
+        description.textContent = 'æ–‡æœ¬å·²è¢«åˆ‡æ¢ï¼';
 
     } else {
 
-        description.textContent = 'ÕâÊÇÒ»¸ö¼òµ¥µÄÍøÕ¾Ê¾Àı£¬Õ¹Ê¾»ù±¾µÄHTML¡¢CSSºÍJavaScriptÓÃ·¨¡£';
+        description.textContent = 'è¿™æ˜¯ä¸€ä¸ªç®€å•çš„ç½‘ç«™ç¤ºä¾‹ï¼Œå±•ç¤ºåŸºæœ¬çš„HTMLã€CSSå’ŒJavaScriptç”¨æ³•ã€‚';
 
     }
 
